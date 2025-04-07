@@ -42,7 +42,7 @@ Once the script runs, the application window should open and be ready for use.
 
 ## Contribution
 
-This project was developed as a team effort by two contributors. Me and JanMalek03(https://github.com/JanMalek03).  
+This project was developed as a team effort by two contributors. Me (https://github.com/adelanavratova) and JanMalek03 (https://github.com/JanMalek03).  
 
 Contributions are welcome! If you want to add features or make improvements, feel free to fork the repo and open a pull request.
 
