@@ -1,7 +1,7 @@
 # Reservation_system_cinema
 This is a simple application that serves as a reservation system for a movie theater. Users can register, log in, browse movies, and book tickets. Administrators can manage users, add new screenings, and read reviews.
 
-## 📦 Project Structure
+## Project Structure
 
 The application includes the following files and folders:
 
@@ -18,7 +18,7 @@ The application includes the following files and folders:
   - `screening.py` – screening schedules
   - `user.py` – user data management
 
-## 📥 Installation
+## Installation
 
 1. **Install Python**  
    Download and install Python from [python.org](https://www.python.org/downloads/). Make sure to add it to your system PATH.
@@ -26,11 +26,13 @@ The application includes the following files and folders:
 2. **Download the project**  
    Clone or download the repository and place all files in a single folder on your computer.
 
-## ▶️ Running the App
+## Running the App
 
 To start the application, open a terminal, navigate to the app folder, and run:
 
+```bash
 python main.py
+```
 
 Once the script runs, the application window should open and be ready for use.
 
@@ -38,7 +40,7 @@ Once the script runs, the application window should open and be ready for use.
 - Username: `admin`
 - Password: `admin`
 
-## 🤝 Contribution
+## Contribution
 
 This project was developed as a team effort by two contributors. Me and JanMalek03(https://github.com/JanMalek03).  
 
